@@ -1,1 +1,3 @@
-# hcx-node-sdk
+# Heuristic CRO Experimentation Kit (HCX)
+
+

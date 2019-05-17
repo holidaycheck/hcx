@@ -1,3 +1,3 @@
-# Heuristic CRO Experimentation Kit (HCX)
+# Holistic Conversion Experimentation Kit (HCX)
 
 
